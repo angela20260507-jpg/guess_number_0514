@@ -89,7 +89,7 @@ export default function App() {
           className="text-center mb-8"
         >
           <h1 className="text-4xl font-display font-extrabold tracking-tight text-slate-900 mb-2">
-            猜數字遊戲
+            猜數字遊戲(熱更新)
           </h1>
           <p className="text-slate-500 font-medium">1 - 100 之間的一個秘密數字</p>
         </motion.div>
