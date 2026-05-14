@@ -1,6 +1,0 @@
-{
-  "name": "猜數字遊戲",
-  "description": "一個精美的 1-100 猜數字挑戰遊戲，具備即時提示、次數追蹤與精美動畫效果。",
-  "requestFramePermissions": [],
-  "majorCapabilities": []
-}
